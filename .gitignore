@@ -1,0 +1,12 @@
+# Stock QMK scaffolding kept locally for reference but NOT published:
+# it is the unmodified Satan GH60 default keymap (no IPA content) and is
+# GPL-2.0 upstream code, which would conflict with this repo's MIT licence.
+# Revival work should start fresh from https://github.com/qmk/qmk_firmware
+firmware/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/

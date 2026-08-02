@@ -66,12 +66,6 @@ output means QMK's `UNICODEMAP` feature — each layer becomes a momentary layer
 (`MO()`) whose keycodes emit Unicode codepoints rather than ASCII. The layout
 JSON here is the spec; every legend position corresponds to a keycode slot.
 
-## Why it exists
-
-Linguistics came before the software career for one of us; this was the side
-project where the two met — a hardware answer to a text-entry problem that
-phoneticians actually have.
-
 ## Licence
 
 [MIT](LICENSE) for the layout design and its source files. The IPA itself is a
